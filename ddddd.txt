@@ -27,3 +27,7 @@ Repository pada dasarnya merupakan gudang tempat menyimpan semua berkas yang kit
 11. dan jika ada file yang ingin diedit maka setelah diedit akan muncul pemberitahuan pada tab working
 	 copy, dan jika ingin menambahkan file yang telah diedit tersebut kedalam 
 	repository commit lagi seperti langkah sebelumnya, kemudian push ke dalam repository github 
+	
+	
+	
+	sudat diedit
